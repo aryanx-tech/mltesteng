@@ -1,0 +1,11 @@
+# Conda environments
+dspro/
+dsproj/
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
